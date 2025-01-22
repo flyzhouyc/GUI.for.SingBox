@@ -108,7 +108,7 @@ jobs:
           mv ${{ env.APP_NAME }}.exe ${{ env.APP_NAME }}
           zip ${{ env.ZIP_FILE }} ${{ env.APP_NAME }}
 
-      # Artifact
+      # ArtifactT
       # - name: Upload Artifact ${{ env.ZIP_FILE }}
       #   uses: actions/upload-artifact@v3
       #   with:
