@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="build/appicon.png" alt="GUI.for.SingBox" width="200">
   <h1>GUI.for.SingBox</h1>
@@ -46,3 +47,4 @@ wails build
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/GUI-for-Cores/GUI.for.SingBox.svg)](https://starchart.cc/GUI-for-Cores/GUI.for.SingBox)
+OK.
